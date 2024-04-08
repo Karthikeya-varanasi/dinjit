@@ -1,0 +1,167 @@
+.Portfolio-section{
+    height: 100%;
+    background-color: var(--black);
+}
+
+.swiper-slide .project-details{
+    width: 100%;
+    color: var(--white);
+    display: none;
+}
+
+
+.swiper-slide-active .project-details{
+    width: 100%;
+    color: var(--white);
+    position: absolute;
+    text-transform: capitalize;
+    left: 0px;
+    z-index: 1;
+    background: linear-gradient(-180deg, #1390afaf,  #0b0b0b73 );
+    bottom: 0px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    display: block;
+    padding-left: 20px;
+}
+
+.project-details .Project-title{
+    font-size: var(--h4);
+    color: var(--white);
+    font-family: var(--primaryfont);
+
+}
+
+.project-details .projectdiscription{
+    font-size: 13px;
+    color: rgba(255, 255, 255, 0.329);
+    font-family: var( --secondaryfont);
+}
+
+.swiper-slide img{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+
+    transition:all 200ms linear;
+    transform: scale(0.8);
+    opacity: 0.3;
+  }
+  .swiper-slide img{
+    height: auto;
+    width: 100%;
+  }
+
+  .swiper-slide-active img{
+    transform: scale(1.03);
+    position: relative;
+    opacity: 1;
+  }
+
+
+
+
+
+  
+   
+
+@media only screen and (max-width:1400px) {
+
+    .services-list{
+        width:100%;
+        display: inline-flex;
+    }
+    
+}
+
+
+
+
+
+@media only screen and (max-width:1199px) {
+
+    .services-list{
+        width:100%;
+        display: inline-flex;
+    }
+    
+}
+@media only screen and (max-width:1024px) {
+
+    .services-list{
+        width:100%;
+        display: inline-flex;
+    }
+    
+}
+    
+
+
+@media only screen and (max-width:991px) {
+    .project-details .Project-title{
+        font-size: 20px;
+    
+    }
+    
+    .project-details .projectdiscription{
+        font-size: 11px;
+    }
+    
+}
+@media only screen and (max-width:768px) {
+   
+.project-details .Project-title{
+    font-size: 20px;
+
+}
+
+.project-details .projectdiscription{
+    font-size: 11px;
+    color: var(--white);
+}
+}
+
+
+
+@media only screen and (max-width:600px) {
+    .project-details .Project-title{
+        font-size: 20px;
+    
+    }
+    
+    .project-details .projectdiscription{
+        font-size: 11px;
+        color: var(--white);
+    }
+}
+
+@media only screen and (max-width:500px) {
+
+    .project-details .Project-title{
+        font-size: 20px;
+    
+    }
+    
+    .project-details .projectdiscription{
+        font-size: 11px;
+        color: var(--white);
+    }
+    
+}
+
+
+
+@media only screen and (max-width:340px) {
+
+    .project-details .Project-title{
+        font-size: 20px;
+    
+    }
+    
+    .project-details .projectdiscription{
+        font-size: 11px;
+        color: var(--white);
+    }
+    
+}
+ 

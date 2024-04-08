@@ -1,0 +1,56 @@
+
+.testimonals-section{
+    width: 100%;
+    background-color: #020202;
+    background-image: radial-gradient(rgb(255 255 255 / 13%) 2px, transparent 0);
+    background-size: 30px 30px;
+    background-position: -5px -5px;
+}
+
+
+.testimonals .swiper-slide{
+    display:flex;
+    align-items: center;
+    justify-content:center;
+
+    transition:all 200ms linear;
+    transform: scale(0.8);
+    color: var(--white);
+    background-color: var(--black);
+    opacity: 0.8;
+  }
+  .testimonals .swiper-slide {
+    height: auto;
+    width: 100%;
+  }
+
+  .testimonals .swiper-slide-active {
+    transform: scale(1);
+    position: relative;
+    opacity: 1;
+    color: var(--white);
+    background-color: var(--black);
+  }
+
+
+  .bgdzin {
+    border: 1px solid var(--primary-color);
+    margin: 10px;
+    text-align: center;
+    padding: 40px 20px;
+    border-radius: 10px;
+    
+  }
+
+
+  .card-image img{
+    width: 100px!important;
+    padding: 10px;
+  }
+
+
+  .testimonals-body .card-text{
+    font-family: var( --secondaryfont);
+    font-size: 16px;
+    font-weight: 200;
+  }

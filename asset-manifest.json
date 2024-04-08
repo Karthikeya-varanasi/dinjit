@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/dinjit/static/css/main.2dfca03b.css",
+    "main.js": "/dinjit/static/js/main.5dd7007f.js",
+    "static/js/453.c4872cb9.chunk.js": "/dinjit/static/js/453.c4872cb9.chunk.js",
+    "static/media/bg-2.mp4": "/dinjit/static/media/bg-2.2dd7dce1f6fddf5900ea.mp4",
+    "static/media/bg-1.mp4": "/dinjit/static/media/bg-1.b1d1e3ae5ec4ce28a3d5.mp4",
+    "static/media/img-7.jpg": "/dinjit/static/media/img-7.a31875b76d39f6458a6e.jpg",
+    "static/media/project1.svg": "/dinjit/static/media/project1.2d249672524d92009d6ee781e0b6c786.svg",
+    "static/media/bg-3.png": "/dinjit/static/media/bg-3.b00898c882c0c1add82d.png",
+    "static/media/DINJIT.png": "/dinjit/static/media/DINJIT.1911297532201ff7f070.png",
+    "static/media/tm_avatar1.png": "/dinjit/static/media/tm_avatar1.4fc551d465ca20f94143.png",
+    "static/media/illustrator.svg": "/dinjit/static/media/illustrator.6243e6c46a0bfb81d7d3088039883156.svg",
+    "static/media/figma.svg": "/dinjit/static/media/figma.5ae0aaebac2d3f3406de325c90618dee.svg",
+    "static/media/Photoshop.svg": "/dinjit/static/media/Photoshop.e6da080ff80e1fbdee6567405e8a374c.svg",
+    "static/media/Premier_pro.svg": "/dinjit/static/media/Premier_pro.c3377ec74cff2f7ef8374165bbf26de6.svg",
+    "index.html": "/dinjit/index.html",
+    "main.2dfca03b.css.map": "/dinjit/static/css/main.2dfca03b.css.map",
+    "main.5dd7007f.js.map": "/dinjit/static/js/main.5dd7007f.js.map",
+    "453.c4872cb9.chunk.js.map": "/dinjit/static/js/453.c4872cb9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2dfca03b.css",
+    "static/js/main.5dd7007f.js"
+  ]
+}
